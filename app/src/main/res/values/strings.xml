@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Flood_It_Bailey_Davies_s4900942</string>
+
+    <string name="hs_highScores">Highscores</string>
+    <string name="hs_easy">Easy</string>
+    <string name="hs_medium">Medium</string>
+    <string name="hs_hard">Hard</string>
+    <string name="hs_extreme">Extreme</string>
+
+    <string name="tA_choose">Choose Color Scheme</string>
+    <string name="tA_apply">Apply</string>
+    <string name="tA_holder">Holder</string>
+    <string name="tA_preview1">Theme 1 preview</string>
+    <string name="tA_preview2">Theme 2 preview</string>
+    <string name="tA_preview3">Theme 3 preview</string>
+    <string name="tA_preview4">Theme 4 preview</string>
+    <string name="tA_previewText">Preview</string>
+    <string name="tA_previewImage">Preview of grid</string>
+
+
+    <string name="mM_newGame">New Game</string>
+    <string name="mM_highScores">Highscores</string>
+    <string name="mM_themes">Themes</string>
+    <string name="mM_Title">Flood It</string>
+
+    <string name="nG_holder">Holder</string>
+    <string name="nG_selectGm">Select Game Mode</string>
+    <string name="nG_easy">Easy</string>
+    <string name="nG_medium">Medium</string>
+    <string name="nG_hard">Hard</string>
+    <string name="nG_extreme">Extreme</string>
+    <string name="nG_nameHint">Player1</string>
+    <string name="nG_nameInput">Enter Player Name</string>
+    <string name="nG_applyButton">Apply</string>
+
+
+</resources>

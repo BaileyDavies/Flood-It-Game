@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#ccebff</color>
+
+    <string-array name="theme_1">
+        <item>#e6194b</item>
+        <item>#3cb44b</item>
+        <item>#ffe119</item>
+        <item>#0082c8</item>
+        <item>#f58231</item>
+        <item>#911eb4</item>
+        <item>#46f0f0</item>
+        <item>#f032e6</item>
+        <item>#d2f53c</item>
+        <item>#fabebe</item>
+    </string-array>
+
+    <string-array name="theme_2">
+        <item>#008060</item>
+        <item>#006080</item>
+        <item>#3d0101</item>
+        <item>#838d93</item>
+        <item>#800020</item>
+        <item>#110c0c</item>
+        <item>#beae7f</item>
+        <item>#8b5454</item>
+        <item>#9f0000</item>
+        <item>#6d6c6c</item>
+    </string-array>
+
+    <string-array name="theme_3">
+        <item>#D81159</item>
+        <item>#8F2D56</item>
+        <item>#218380</item>
+        <item>#FBB13C</item>
+        <item>#73D2DE</item>
+        <item>#C2F9BB</item>
+        <item>#5FAD56</item>
+        <item>#E4572E</item>
+        <item>#006E90</item>
+        <item>#D3BDB0</item>
+    </string-array>
+
+    <string-array name="theme_4">
+        <item>#242038</item>
+        <item>#9067C6</item>
+        <item>#8D86C9</item>
+        <item>#CAC4CE</item>
+        <item>#F7ECE1</item>
+        <item>#4D7EA8</item>
+        <item>#828489</item>
+        <item>#3D348B</item>
+        <item>#7678ED</item>
+        <item>#65655E</item>
+    </string-array>
+
+
+</resources>
