@@ -1,6 +1,8 @@
 # Flood-It-Game
 Flood It Android Game.
 
+![Alt text](https://imgur.com/6PCK8yD "Flood It")
+
 Personal project to create an android puzzle game using Java. 
 
 # Features
