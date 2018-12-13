@@ -1,7 +1,7 @@
 # Flood-It-Game
 Flood It Android Game.
 
-![Alt text](https://imgur.com/6PCK8yD "Flood It")
+![Alt text](https://i.imgur.com/6PCK8yD.png "Flood It")
 
 Personal project to create an android puzzle game using Java. 
 
