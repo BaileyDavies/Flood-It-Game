@@ -8,6 +8,8 @@ Personal project to create an android puzzle game using Java.
 # Features
 Create a new game based on a set of user chosen parameters for game size and difficulty.
 
+![Alt text](https://i.imgur.com/cqfjluW "New Game")
+
 You have a limited amount of rounds to fill the board with the same color using the interactive color buttons. 
 
 Don't reach the round limit without filling the board!
